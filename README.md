@@ -8,10 +8,11 @@
 ## Part one: The problem
 ### Hurry: the great enemy of spiritual life
 
-Q: What do I need to become the me I want to be?
-A: You must ruthlessly eliminate hurry from your life.
-Q: Okay what else?
-A: There is nothing else.
+- Q: What do I need to become the me I want to be?
+- A: You must ruthlessly eliminate hurry from your life.
+- Q: Okay what else?
+- A: There is nothing else.
+
 
 > [The devil] is far more intelligent than we give him credit for. Today, your're
 > far more likely to run into the enemy in the form of an alert on your phone while
