@@ -60,6 +60,8 @@ What if the secret to life is actually "easy" as Jesus claims. What if we are to
 - Q: Okay what else?
 - A: There is nothing else.
 
+Why? "Hurry" is the **root** problem underneath so many of the symptoms of toxicity in the world.
+
 Page 20:
 ```
 [The devil] is far more intelligent than we give him credit for. Today, your're
@@ -67,10 +69,34 @@ far more likely to run into the enemy in the form of an alert on your phone whil
 your reading your Bible or a multiday Netflix binge or a full-on dopamine addition
 to instagram or a Saturday morning at the office or *another* soccer game on a
 Sunday or commitment after commitment after commitment in a life of spped.
+
 Corrie ten Boom once said that if the devil can't make you sin, he'll make you
-busy. There's truth in that. Both sin and busness have the exact same effect -
-they cut off your connection to God, to other people, and even to your own soul.
+busy. There's truth in that. _Both sin and busness have the exact same effect -
+they cut off your connection to God, to other people, and even to your own soul._
 ```
+
+Page 21:
+```
+The problem isn't when you have _a lot_ to do; it's when you have _too much_ to do
+and the only way to keep up is to hurry. 
+```
+
+Hypothesis (page 21): It may be the case that ...
+
+1. Christians are assimilating to a culture of busyness, hurry and overload, which leads to...
+2. God becoming more marginalized in Christians' lives, which leads to...
+3. a deteriorating relationship with God, which leads to...
+4. Christians becoming even more vulnerable to adopting secular assumptions about how to live, which leads to...
+5. more conformity to a culture of busyness, hurry and overload.
+
+And then the cycle begins again.
+
+Why does this matter? Well, remember that LOVE has the highest value in Christ's economy (recall: " love the Lord and love neighbor" were the highest commands). BUT because love is painfully time consuming, hurry & love are incompatible.
+- We simply can't love each other well when we hurry.
+- In fact, Paul's first descriptor of love is "patient".
+- It's called "walking" w/ God, not "running w/ God"
+- The same is true for joy & peace.
+
 
 Page 23:
 ```
@@ -81,17 +107,53 @@ they simply do notn mix... There's a reason people talk about "walking" with God
 not "running" with God. It's because God is love.
 ```
 
+
+
 Page 27:
 ```
-> John Ortberg has said, "For many of us, the great danger is not that we renounce
-> our faith. It is that we will become so distracted and rushed and preoccupied
-> that we will settle for a mediocre version of it. We will just skim our lives
-> instead of actually living them." 
->
-> Do you see what's at stake here?
+We are 'distracting ourselves into spiritual oblivion.'
+
+John Ortberg has said, "For many of us, the great danger is not that we renounce
+our faith. It is that we will become so distracted and rushed and preoccupied
+that we will settle for a mediocre version of it. We will just skim our lives
+instead of actually living them."
+
+Do you see what's at stake here?
 ```
 
 ### A brief history of speed
+
+Here's a high level overview of the people & things that have sped up our lives:
+
+Clocks
+- The sundial
+    - Cutting up man's day into smaller portions
+- Saint Benedict
+    - The monks organized the monastery around 7 times of prayer each day. BUT, they invented a mechanical clock to help keep track of when those prayer times were to commence.
+- Clocks made our days more uniform, all year round. Summer days used to be long and winter short. But now they are all the same length according to the clock.
+- We stopped listening to our bodies circadian rhythm and started rising to the tick tock of a clock, under the dominion of a machine.
+
+Labor-saving devices
+- before the light bulb was invented in 1879 by Thomas Edison, an average person got about 11 hours of sleep each night! American's average 7 now-a-days.
+- HVAC! No more choppping down trees to heat your home with fire
+- Cars
+- Coffee pots
+- Dishwashers
+- Toaster
+- Take out
+- Email
+- AI
+  
+Yay! We have more time! But where did it go? We spent it on other things.
+- In the 1960's sci, people predicted American's would only be working 22 hour weeks by 1985. Welp, they were wrong. We actually work more.
+- A measure of wealth used to be: More recreation! But now, it's more work. The more you sit around and relax, the less status you have.
+
+
+- 7-eleven
+- Steve Jobs
+
+
+
 ### Something is deeply wrong
 
 ## Part two: The solution
